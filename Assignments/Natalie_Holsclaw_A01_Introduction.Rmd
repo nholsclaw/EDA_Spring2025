@@ -26,11 +26,11 @@ Enter answers to the questions just below the >Answer: prompt.
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I feel somewhat confident about making plots and data visualization. 
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: I feel a little apprehensive about the analysis based modules like time series analysis and spatial analysis. 
 
 
 ## 2) GitHub
