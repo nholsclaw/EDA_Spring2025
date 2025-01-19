@@ -22,7 +22,7 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I have worked with R some in internships and a little bit in my undergraduate stats class. I have never worked with Git or other programing languages. 
 
 2. Are there any components of the course about which you feel confident?
 
