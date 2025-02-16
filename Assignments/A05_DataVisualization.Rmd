@@ -1,7 +1,7 @@
 ---
 title: "Assignment 5: Data Visualization"
-author: "Student Name"
-date: "Fall 2024"
+author: "Natalie Holsclaw"
+date: "Spring 2025"
 output: pdf_document
 geometry: margin=2.54cm
 fig_height: 3
