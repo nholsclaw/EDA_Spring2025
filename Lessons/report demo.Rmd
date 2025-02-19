@@ -1,0 +1,52 @@
+---
+title: "My example document"
+subtitle: "My subtitle"
+author: "Natalie Holsclaw"
+date: "2025-02-19"
+output: pdf_document
+toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+### Subheader
+
+#### Smaller subheader
+
+```{r demo, message=TRUE, warning=TRUE, paged.print=TRUE}
+x = 1
+y = 13
+print(x + y)
+
+# echo = FALSE - hides code, only shows output
+# include = FALSE - hides code and output
+# eval = FALSE - don't run code
+```
+
+# markdown
+
+> this is a block quote
+
+Ordered list
+
+1.  Step one
+2.  Step two
+
+-   first bullet
+-   second bullet
+    -   subbullet
+
+Table
+
+| First Header | Second Header |
+|--------------|---------------|
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+
+Hyperlinks: [mylink](web%20address)
+
+Inserting image ![my image](image%20path)
